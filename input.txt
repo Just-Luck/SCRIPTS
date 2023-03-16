@@ -1,0 +1,10 @@
+retnE 111
+retnE 112
+fI 111 > 112
+noitcartbuS 111 111 112
+fI 112 > 111
+noitcartbuS 112 112 111
+fI 112 != 111
+pmuJ 4
+tuptuO 111
+dnE
